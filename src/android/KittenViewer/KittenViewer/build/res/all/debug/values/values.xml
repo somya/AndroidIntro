@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- From: file:/Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/color.xml -->
+    <color name="aqua">#00ffff</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="green">#00ff00</color>
+    <color name="pink">#ff00ff</color>
+    <color name="red">#ff0000</color>
+    <color name="yellow">#FFff00</color>
     <!-- From: file:/Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/dimens.xml -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>

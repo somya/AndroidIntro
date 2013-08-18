@@ -10,32 +10,46 @@ package com.androidIntro.kittenviewer;
 public final class R {
     public static final class attr {
     }
+    public static final class color {
+        /**  From: file:/Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/color.xml 
+         */
+        public static final int aqua=0x7f040000;
+        public static final int blue=0x7f040001;
+        public static final int green=0x7f040002;
+        public static final int pink=0x7f040003;
+        public static final int red=0x7f040004;
+        public static final int yellow=0x7f040005;
+    }
     public static final class dimen {
         /**  From: file:/Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/dimens.xml 
  From: file:/Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values-sw720dp-land/dimens.xml 
          */
-        public static final int activity_horizontal_margin=0x7f040000;
-        public static final int activity_vertical_margin=0x7f040001;
+        public static final int activity_horizontal_margin=0x7f050000;
+        public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
+        public static final int lotus=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f080001;
-        public static final int grid=0x7f080000;
+        public static final int action_settings=0x7f090002;
+        public static final int grid=0x7f090000;
+        public static final int img_fill_image=0x7f090001;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
+        public static final int frame_layout_demo=0x7f030001;
+        public static final int linear_layout_demo=0x7f030002;
     }
     public static final class menu {
-        public static final int main=0x7f070000;
+        public static final int main=0x7f080000;
     }
     public static final class string {
         /**  From: file:/Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/strings.xml 
          */
-        public static final int action_settings=0x7f050000;
-        public static final int app_name=0x7f050001;
-        public static final int hello_world=0x7f050002;
+        public static final int action_settings=0x7f060000;
+        public static final int app_name=0x7f060001;
+        public static final int hello_world=0x7f060002;
     }
     public static final class style {
         /**  From: file:/Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/styles.xml 
@@ -45,9 +59,9 @@ public final class R {
             backward-compatibility can go here.
         
          */
-        public static final int AppBaseTheme=0x7f060000;
+        public static final int AppBaseTheme=0x7f070000;
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f060001;
+        public static final int AppTheme=0x7f070001;
     }
 }

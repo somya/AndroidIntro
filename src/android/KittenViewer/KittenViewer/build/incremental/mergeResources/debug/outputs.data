@@ -2,9 +2,12 @@
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
 1376189373000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1376787743000 2375524 c44bd061853960d2850cc84887c181c827553365 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/build/res/all/debug/drawable-hdpi/lotus.JPG
 1376189373000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
-1376189373000 1210 f7dfb59d1e431f1e28cb5eb75391458cc233491a /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/build/res/all/debug/values/values.xml
+1376787743000 1589 a0220caca807fb4588f7b4193d0c22dfe9f8b0df /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/build/res/all/debug/values/values.xml
 1376189373000 377 354c2520480b2e9fbc262c87ac86e4ce44b22d53 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/build/res/all/debug/menu/main.xml
+1376794802000 1141 25111130c817755291b4391ded67d20f7ae20b03 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/build/res/all/debug/layout/linear_layout_demo.xml
+1376787743000 1171 381c66a8e1c1a8cf6757b05ccb005f38ee7f202e /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/build/res/all/debug/layout/frame_layout_demo.xml
 1376189373000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/build/res/all/debug/drawable-hdpi/ic_launcher.png
 1376189373000 280 aca5c2ffb3dd4d0dbd990e1ba92c17c8786a9a21 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/build/res/all/debug/values-sw720dp-land/values.xml
 1376229352000 899 31e6c57ccd6732a3b291c4434c5972e209fadbc1 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/build/res/all/debug/layout/activity_main.xml

@@ -1,14 +1,18 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1376189357000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values-sw600dp/dimens.xml
-1376189356000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/drawable-xhdpi/ic_launcher.png
-1376189356000 674 c78f92856947cb5742edaa3b94df76b0823dbbe7 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/styles.xml
-1376189357000 223 f4f6a8ab53865ac9ef10143ffc8d29cd3242e856 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/strings.xml
-1376229342000 755 b5ca11801fdfecfa4178d06046a849e80dd2169d /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/layout/activity_main.xml
 1376189356000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/drawable-mdpi/ic_launcher.png
+1376229342000 755 b5ca11801fdfecfa4178d06046a849e80dd2169d /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/layout/activity_main.xml
+1376189357000 223 f4f6a8ab53865ac9ef10143ffc8d29cd3242e856 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/strings.xml
+1376189356000 674 c78f92856947cb5742edaa3b94df76b0823dbbe7 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/styles.xml
+1178507102000 2375524 c44bd061853960d2850cc84887c181c827553365 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/drawable-hdpi/lotus.JPG
+1376794799000 992 b2d5d14222786f620128c3ef0d4044ac64f57fb6 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/layout/linear_layout_demo.xml
 1376189357000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/dimens.xml
 1376189356000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/drawable-xxhdpi/ic_launcher.png
 1376189357000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values-sw720dp-land/dimens.xml
-1376189357000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/menu/main.xml
+1376615051000 1023 bce2bcfa0aada519e6fed7e446d70ce2f6bc78dc /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/layout/frame_layout_demo.xml
+1376189357000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values-sw600dp/dimens.xml
+1376189356000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/drawable-xhdpi/ic_launcher.png
+1376787608000 301 7c06b7996b63f5580c0e9daabb9b8295334a6563 /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/values/color.xml
 1376189356000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/drawable-hdpi/ic_launcher.png
+1376189357000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/menu/main.xml
