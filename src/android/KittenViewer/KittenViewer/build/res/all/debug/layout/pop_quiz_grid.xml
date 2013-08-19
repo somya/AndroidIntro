@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+              android:layout_height="match_parent" android:columnCount="2" android:rowCount="2">
+
+
+
+        <View
+                android:layout_width="100dp"
+                android:layout_height="100dp" android:background="@color/red" android:layout_column="0"
+                android:layout_row="0"/>
+
+        <View
+                android:layout_width="100dp"
+                android:layout_height="100dp" android:background="@color/green" android:layout_column="1"
+                android:layout_row="0"/>
+
+
+    <View
+            android:layout_width="100dp"
+            android:layout_height="100dp" android:background="@color/blue" android:layout_column="0"
+            android:layout_columnSpan="2" android:layout_row="1"/>
+
+</GridLayout>
+<!-- From: file:/Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/layout/pop_quiz_grid.xml -->
