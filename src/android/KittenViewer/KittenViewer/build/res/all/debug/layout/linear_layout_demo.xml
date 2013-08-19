@@ -2,22 +2,22 @@
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:layout_width="match_parent"
-              android:layout_height="match_parent" android:orientation="vertical" >
+              android:layout_height="match_parent">
 
     <View
-            android:layout_width="100dp" android:layout_weight="1"
-            android:layout_height="0dp" android:background="@color/red" android:layout_margin="10dp" />
+            android:layout_width="100dp" 
+            android:layout_height="100dp" android:background="@color/red" android:layout_margin="10dp"/>
 
     <View
-            android:layout_width="100dp" android:layout_weight="1"
-            android:layout_height="0dp" android:background="@color/green" android:layout_margin="10dp"/>
+            android:layout_width="100dp" 
+            android:layout_height="100dp" android:background="@color/green" android:layout_margin="10dp"/>
 
     <View
-            android:layout_width="100dp" android:layout_weight="1"
-            android:layout_height="0dp" android:background="@color/blue" android:layout_margin="10dp"/>
+            android:layout_width="100dp" 
+            android:layout_height="100dp" android:background="@color/blue" android:layout_margin="10dp"/>
 
     <View
-            android:layout_width="100dp" android:layout_weight="1"
-            android:layout_height="0dp" android:background="@color/pink" android:layout_margin="10dp"/>
+            android:layout_width="100dp" 
+            android:layout_height="100dp" android:background="@color/pink" android:layout_margin="10dp"/>
 
 </LinearLayout><!-- From: file:/Users/somya/Projects/Presentations/AndroidIntro/src/android/KittenViewer/KittenViewer/src/main/res/layout/linear_layout_demo.xml -->

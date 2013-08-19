@@ -32,14 +32,26 @@ public final class R {
         public static final int lotus=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f090002;
+        public static final int action_settings=0x7f090007;
+        public static final int blue=0x7f090004;
+        public static final int demo_list_view=0x7f090003;
+        public static final int green=0x7f090006;
         public static final int grid=0x7f090000;
-        public static final int img_fill_image=0x7f090001;
+        public static final int img_fill_image=0x7f090002;
+        public static final int random_color_view=0x7f090001;
+        public static final int red=0x7f090005;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int frame_layout_demo=0x7f030001;
-        public static final int linear_layout_demo=0x7f030002;
+        public static final int demo_list_item_view=0x7f030001;
+        public static final int frame_layout_demo=0x7f030002;
+        public static final int linear_layout_demo=0x7f030003;
+        public static final int linear_layout_demo_weighted=0x7f030004;
+        public static final int list_view_demo=0x7f030005;
+        public static final int pop_quiz_grid=0x7f030006;
+        public static final int pop_quiz_linear=0x7f030007;
+        public static final int pop_quiz_relative=0x7f030008;
+        public static final int relative_layout_demo=0x7f030009;
     }
     public static final class menu {
         public static final int main=0x7f080000;

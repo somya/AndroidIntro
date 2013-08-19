@@ -17,16 +17,27 @@
         <activity
                 android:name="com.androidIntro.kittenviewer.MainActivity"
                 android:label="@string/app_name">
-
-        </activity>
-        <activity
-                android:name=".LayoutTestActivity"
-                android:label="Layout Test">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
+
+        </activity>
+        <activity
+                android:name=".LayoutDemoActivity"
+                android:label="Layout Demo">
+
+        </activity>
+        <activity
+                android:name=".ListViewDemoActivity"
+                android:label="List Demo">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+
         </activity>
     </application>
 
