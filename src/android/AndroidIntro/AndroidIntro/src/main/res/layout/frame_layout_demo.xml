@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <ImageView
+            android:id="@+id/img_fill_image" android:layout_width="match_parent" android:layout_height="match_parent"
+    android:src="@drawable/lotus" android:scaleType="centerCrop"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is on the top"
+            android:textSize="48dp"
+            android:textColor="@color/yellow"
+            />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is on the Bottom"
+            android:layout_gravity="bottom|right"
+            android:textColor="@color/yellow"
+            android:textStyle="bold"
+            android:textSize="48dp"/>
+
+</FrameLayout>

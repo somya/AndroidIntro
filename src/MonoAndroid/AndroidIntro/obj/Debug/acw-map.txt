@@ -1,0 +1,2 @@
+AndroidIntro.MainActivity;androidintro.MainActivity
+AndroidIntro.LayoutDemoActivity;androidintro.LayoutDemoActivity
