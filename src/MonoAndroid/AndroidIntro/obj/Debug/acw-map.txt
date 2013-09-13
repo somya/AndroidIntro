@@ -1,2 +1,4 @@
 AndroidIntro.MainActivity;androidintro.MainActivity
 AndroidIntro.LayoutDemoActivity;androidintro.LayoutDemoActivity
+AndroidIntro.ListViewDemoActivity;androidintro.ListViewDemoActivity
+AndroidIntro.DemoListAdapter;androidintro.DemoListAdapter

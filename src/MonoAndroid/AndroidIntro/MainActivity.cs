@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace AndroidIntro
 {
-	[Activity (Label = "AndroidIntro", MainLauncher = false)]
+	[Activity (Label = "AndroidIntro", MainLauncher = true)]
 	public class MainActivity : Activity
 	{
 		int count = 1;
@@ -27,6 +27,10 @@ namespace AndroidIntro
 			button.Click += delegate {
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
+
+			FindViewById<Button> (Resource.Id.btn_layoutDemo).Click += (sender, e) => StartActivity (typeof(LayoutDemoActivity));
+			FindViewById<Button> (Resource.Id.btn_listDemo).Click += (sender, e) => StartActivity (typeof(ListViewDemoActivity));
+
 		}
 	}
 }

@@ -20,3 +20,5 @@
 /Users/somya/Projects/Presentations/AndroidIntro/src/MonoAndroid/AndroidIntro/obj/Debug/uploadflags.txt
 /Users/somya/Projects/Presentations/AndroidIntro/src/MonoAndroid/AndroidIntro/obj/Debug/AndroidIntro.dll
 /Users/somya/Projects/Presentations/AndroidIntro/src/MonoAndroid/AndroidIntro/obj/Debug/AndroidIntro.dll.mdb
+/Users/somya/Projects/Presentations/AndroidIntro/src/MonoAndroid/AndroidIntro/obj/Debug/res/layout/listviewdemo.xml
+/Users/somya/Projects/Presentations/AndroidIntro/src/MonoAndroid/AndroidIntro/obj/Debug/res/layout/listviewitemdemo.xml

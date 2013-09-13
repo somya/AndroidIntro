@@ -69,6 +69,7 @@
     <AndroidResource Include="Resources\layout\PopQuiz.axml" />
     <AndroidResource Include="Resources\layout-land\LinearLayoutDemo.axml" />
     <AndroidResource Include="Resources\layout\ListViewDemo.axml" />
+    <AndroidResource Include="Resources\layout\ListViewItemDemo.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

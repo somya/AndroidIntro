@@ -2,13 +2,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="AndroidIntro.AndroidIntro">
   <uses-sdk android:minSdkVersion="8" />
   <application android:label="AndroidIntro" android:name="mono.android.app.Application" android:debuggable="true">
-    <activity android:label="AndroidIntro" android:name="androidintro.MainActivity" />
-    <activity android:label="LayoutDemoActivity" android:name="androidintro.LayoutDemoActivity">
+    <activity android:label="AndroidIntro" android:name="androidintro.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:label="LayoutDemoActivity" android:name="androidintro.LayoutDemoActivity" />
+    <activity android:label="ListViewDemoActivity" android:name="androidintro.ListViewDemoActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="AndroidIntro.AndroidIntro.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>

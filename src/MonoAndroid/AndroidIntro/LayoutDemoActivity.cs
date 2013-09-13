@@ -11,7 +11,7 @@ using Android.Widget;
 
 namespace AndroidIntro
 {
-	[Activity (Label = "LayoutDemoActivity" ,MainLauncher = true)]			
+	[Activity (Label = "LayoutDemoActivity" ,MainLauncher = false)]			
 	public class LayoutDemoActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)

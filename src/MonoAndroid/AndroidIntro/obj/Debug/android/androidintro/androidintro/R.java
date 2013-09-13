@@ -29,20 +29,24 @@ public final class R {
         public static final int lotus=0x7f020001;
     }
     public static final class id {
+        public static final int btn_layoutDemo=0x7f070004;
+        public static final int btn_listDemo=0x7f070005;
         public static final int demo_list_view=0x7f070001;
         public static final int img_fill_image=0x7f070000;
-        public static final int myButton=0x7f070002;
-        public static final int red=0x7f070003;
-        public static final int view=0x7f070004;
+        public static final int myButton=0x7f070003;
+        public static final int random_color_view=0x7f070002;
+        public static final int red=0x7f070006;
+        public static final int view=0x7f070007;
     }
     public static final class layout {
         public static final int framelayoutdemo=0x7f030000;
         public static final int linearlayoutdemo=0x7f030001;
         public static final int linearlayoutweighteddemo=0x7f030002;
         public static final int listviewdemo=0x7f030003;
-        public static final int main=0x7f030004;
-        public static final int popquiz=0x7f030005;
-        public static final int relativelayoutdemo=0x7f030006;
+        public static final int listviewitemdemo=0x7f030004;
+        public static final int main=0x7f030005;
+        public static final int popquiz=0x7f030006;
+        public static final int relativelayoutdemo=0x7f030007;
     }
     public static final class string {
         public static final int app_name=0x7f060001;
