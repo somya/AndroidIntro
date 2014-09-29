@@ -2,14 +2,14 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="AndroidIntro/MainActivity.cs" Line="1" Column="1" />
-      <File FileName="AndroidIntro/Resources/AboutResources.txt" Line="1" Column="1" />
-      <File FileName="AndroidIntro/Resources/values/Strings.xml" Line="6" Column="1" />
+      <File FileName="AndroidIntro/LayoutDemoActivity.cs" Line="7" Column="18" />
+      <File FileName="AndroidIntro/Properties/AssemblyInfo.cs" Line="1" Column="3" />
+      <File FileName="AndroidIntro/ListViewDemoActivity.cs" Line="63" Column="77" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AndroidIntro MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+  <MonoDevelop.Ide.ItemProperties.AndroidIntro MonoForAntroid.PreferredDevice="2.7in QVGA" AndroidDeviceId-Debug="emulator-5554" />
 </Properties>
